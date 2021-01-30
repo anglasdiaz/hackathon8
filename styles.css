@@ -1,0 +1,39 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #264653;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6em;
+    letter-spacing: 1px;
+}
+.content{
+    width: 95%;
+    background-color: #2a9d8f;
+    margin: 0 auto;
+    border-radius: 5px;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.content div{
+    padding: 20px;
+    border-bottom: solid #e9c46a;
+}
+footer a{
+    text-decoration: none;
+    padding-right: 10px;
+    color: inherit;
+}
+footer{
+    background-color: #e9c46a;
+    width: 95%;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
